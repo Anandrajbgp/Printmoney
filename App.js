@@ -93,7 +93,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle="dark-content" />
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>Paper Trading</Text>
+        <Text style={styles.headerTitle}>printmoney</Text>
         <View style={styles.balanceCard}>
           <View>
             <Text style={styles.balanceLabel}>Total Value</Text>

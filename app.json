@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "paper-trading",
-    "slug": "paper-trading",
+    "name": "printmoney",
+    "slug": "printmoney",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

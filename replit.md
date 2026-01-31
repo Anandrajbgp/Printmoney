@@ -1,4 +1,4 @@
-# Paper Trading App
+# printmoney
 
 A simple paper trading Android application built with React Native and Expo.
 
