@@ -1,7 +1,13 @@
 {
   "expo": {
+    "owner": "oblivent",
     "name": "printmoney",
     "slug": "printmoney",
+    "extra": {
+      "eas": {
+        "projectId": "4ae07dd9-f045-4fd8-a5d7-37c4509815f8"
+      }
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
