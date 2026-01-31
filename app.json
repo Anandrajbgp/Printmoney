@@ -16,7 +16,8 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.replit.papertrading",
+      "package": "com.anandraj.printmoney",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
